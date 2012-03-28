@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/register"
+        android:title="@string/register">
+    </item>
+    <item android:id="@+id/requestPlace" android:title="@string/request_place"></item><item
+        android:id="@+id/unregister"
+        android:title="@string/unregister">
+    </item>
+    <item android:id="@+id/Settings" android:title="@string/Settings"></item>
+    <item android:id="@+id/settings1" android:title="@string/Settings1"></item>
+    
+
+</menu>

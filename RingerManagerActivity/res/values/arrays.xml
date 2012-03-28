@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="RingerTypeList">  
+        <item>@string/ringerMode1</item>  
+        <item>@string/ringerMode2</item>  
+        <item>@string/ringerMode3</item>  
+        <item>@string/ringerMode4</item>  
+    </string-array>    
+</resources>

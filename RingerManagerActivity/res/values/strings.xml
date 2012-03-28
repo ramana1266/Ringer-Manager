@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="app_name">Ringer Manager</string>
+    <string name="place_text">Current place:</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="request_place">Request place</string>
+    <string name="Settings">Location Based Setting</string>
+    <string name="Settings1">Activity Based Setting</string>
+     <!--Other string resources also defined in this file… -->  
+    <string name="ringerMode1">Loud and Vibrate</string>  
+    <string name="ringerMode2">Vibrate</string>  
+    <string name="ringerMode3">Loud</string>  
+    <string name="ringerMode4">Lights Only</string>
+    <string name="Ringer_mode">Select the Ringer Mode</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>  
+    <string name="emailOpts">Email Options</string>
+    <string name="TextForEmail">Please give your email ID and password if you wish to send an email to the caller when he misses a call.</string>
+</resources>
